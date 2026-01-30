@@ -4,7 +4,7 @@ Dieses Python-Programm extrahiert Kill-Log-Daten aus Tarkov-Screenshots mittels 
 
 ## Voraussetzungen
 
-### 1. Python 3.8 oder höher
+### 1. Python 3.12
 Stelle sicher, dass Python installiert ist:
 ```bash
 python --version
